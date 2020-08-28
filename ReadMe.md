@@ -20,7 +20,7 @@ This API should support: `add`, `subtract`, `multiply`, and `divide` and be prov
 - error handling
 - appropriate unit tests
 
-For instance `/v1/arrayOps/add` with post data of { array: [4,1,5,2,3] } should return:
+For instance `/v1/arrayOps/add` with post data of `{ array: [4,1,5,2,3] }`should return:
 
 ```javascript
 {
